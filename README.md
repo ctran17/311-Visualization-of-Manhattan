@@ -2,7 +2,8 @@
 
 In a team of 3 for the course CIS240: Database Management & Descriptive Analysis's final project, we performed analysis and visualization of 311, a non-emergency city service, in Manhattan between 2010 and now, updated every day, using MySQL and Tableau respectively. 
 
-[For more details on our data selection & cleaning process, visualization insights, and conclusion, check out our team's presentation [here] (https://docs.google.com/presentation/d/13uHj7WOvpKOX6lh8AQ1-jLMwScVqfKiB/edit#slide=id.g2ba0fbd6d66_0_139)
+[For more details on our data selection & cleaning process, visualization insights, and conclusion, check out our team's presentation [here](https://docs.google.com/presentation/d/13uHj7WOvpKOX6lh8AQ1-jLMwScVqfKiB/edit#slide=id.g2ba0fbd6d66_0_139)
+
 
 
 ![image](https://github.com/user-attachments/assets/b9796714-c388-4e4d-bfe0-93ff8598b424)
